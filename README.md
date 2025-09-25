@@ -55,10 +55,3 @@ I’m a Frontend Developer passionate about building clean, responsive, and user
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-
-
------
-Credit:[Zoksss](https://github.com/Zoksss)
-Last Edited on: 15/03/2025
